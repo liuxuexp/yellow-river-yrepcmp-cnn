@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+out/
+out_legacy46x82/
+figures/
+*.pt
+*.nc
+*.csv
+.ipynb_checkpoints/

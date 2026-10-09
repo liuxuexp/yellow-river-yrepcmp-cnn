@@ -1,0 +1,3 @@
+CN05.1 daily gridded precipitation (0.25 deg, 1961-2023), validation only
+Zenodo (author-held copy): https://doi.org/10.5281/zenodo.22700402
+Expected file staged at $YREPCMP_DATABANK/CN05.1/CN05.1_Pre_1961_2023_daily_025x025.nc

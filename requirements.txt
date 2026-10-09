@@ -1,0 +1,10 @@
+numpy
+pandas
+xarray
+netCDF4
+scipy
+scikit-learn
+matplotlib>=3.5
+cartopy>=0.21
+torch>=2.0
+shapely

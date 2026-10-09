@@ -1,0 +1,5 @@
+CHM_PRE V2 daily gridded precipitation (0.1 deg, 1960-2024)
+National Tibetan Plateau Data Center
+https://data.tpdc.ac.cn
+Expected files: CHM_PRE_V2_daily_{YYYY}.nc for YYYY in 1960..2024,
+staged at $YREPCMP_DATABANK/CHM_PRE_V2/daily/

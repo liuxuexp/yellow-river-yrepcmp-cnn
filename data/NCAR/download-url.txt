@@ -1,0 +1,5 @@
+NCEP/NCAR Reanalysis 1, daily pressure-level and surface fields
+NOAA Physical Sciences Laboratory
+https://psl.noaa.gov/data/gridded/data.ncep.reanalysis.html
+Variables: hgt (Z500), slp, uwnd, vwnd, shum (850 hPa), pr_wtr
+Expected files staged at $YREPCMP_DATABANK/NCAR/Data-NCAR/data/daily/
